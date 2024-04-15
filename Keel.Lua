@@ -572,7 +572,7 @@ function library:loader(props)
 			BackgroundColor3 = Color3.fromRGB(168, 52, 235),
 			BorderColor3 = Color3.fromRGB(12, 12, 12),
 			BorderSizePixel = 1,
-			Size = UDim2.new(0,300,0,90),
+			Size = UDim2.new(0,30,0,90),
 			Position = UDim2.new(0.5,0,0.5,0),
 			ZIndex = 9900,
 			Visible = false,
